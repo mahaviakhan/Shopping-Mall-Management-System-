@@ -1,4 +1,4 @@
-//shopping mall cep project (group E)
+//shopping mall cep project 
 #include <iostream>
 #include <conio.h>
 #include <fstream>
